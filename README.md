@@ -1,2 +1,2 @@
-Hello Git
+Github version is better
 Learning Git basics
